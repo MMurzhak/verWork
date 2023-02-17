@@ -1,0 +1,15 @@
+D:\education\verification work\bin\Debug\net6.0\verification work.exe
+D:\education\verification work\bin\Debug\net6.0\verification work.deps.json
+D:\education\verification work\bin\Debug\net6.0\verification work.runtimeconfig.json
+D:\education\verification work\bin\Debug\net6.0\verification work.dll
+D:\education\verification work\bin\Debug\net6.0\verification work.pdb
+D:\education\verification work\obj\Debug\net6.0\verification work.csproj.AssemblyReference.cache
+D:\education\verification work\obj\Debug\net6.0\verification work.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\verification work\obj\Debug\net6.0\verification work.AssemblyInfoInputs.cache
+D:\education\verification work\obj\Debug\net6.0\verification work.AssemblyInfo.cs
+D:\education\verification work\obj\Debug\net6.0\verification work.csproj.CoreCompileInputs.cache
+D:\education\verification work\obj\Debug\net6.0\verification work.dll
+D:\education\verification work\obj\Debug\net6.0\refint\verification work.dll
+D:\education\verification work\obj\Debug\net6.0\verification work.pdb
+D:\education\verification work\obj\Debug\net6.0\verification work.genruntimeconfig.cache
+D:\education\verification work\obj\Debug\net6.0\ref\verification work.dll
